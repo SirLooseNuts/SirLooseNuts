@@ -1,38 +1,52 @@
 # Hi, I'm Muhammad Banna FN 👋
 
-🚀 Aspiring Software Developer | UI/UX Enthusiast | Entrepreneur  
+🚀 Full-Stack Developer | UI/UX Designer | Startup Builder
 
 ## 💡 About Me
 - 🎓 B.Tech CSE Student
-- 💻 Passionate about Web & Mobile Development
-- 📱 Building real-time apps and productivity tools
-- 🎨 Interested in branding, UI/UX, and digital experiences
-- 🌱 Currently learning advanced development & scalable systems
+- 💻 Building scalable web applications
+- 🎨 Passionate about modern UI/UX
+- ⚡ Exploring AI-assisted development workflows
 
 ---
 
 ## 🛠 Tech Stack
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Firebase
-- Tools: Git, GitHub, VS Code
-- Design: Figma, Canva
+React.js • JavaScript • Python • Tailwind CSS • GitHub • Figma
 
 ---
 
-## 🚀 Featured Projects
-### 🔹 FocusFlow
-Productivity app with focus tracking, streaks, social leaderboards, and challenges.
+## 🚀 Featured Repositories
 
-### 🔹 Bus Tracking App
-Live GPS bus tracking platform optimized for South India.
+### 🏥 Medicare Plus
+Healthcare platform focused on authentication, workflows, and responsive design.
 
-### 🔹 Level Torque
-Aesthetic and automotive-themed POD Shopify brand.
+🔗 https://github.com/SirLooseNuts/Medicare-plus
+
+---
+
+### 🎯 FocusFlow
+Productivity platform with focus tracking, streak systems, and social challenges.
+
+🔗 https://github.com/SirLooseNuts/focus_app
+
+---
+
+### ✈ Emirates Expeditions
+Tours and travel web platform with modern UI and responsive experience.
+
+🔗 https://github.com/SirLooseNuts/emirates-expeditions
+
+---
+
+### 🌍 Asif Tours & Packages
+Frontend tourism project showcasing packages and destination experiences.
+
+🔗 https://github.com/SirLooseNuts/asiftoursandpackages
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/muhammad-banna-fn
-- Instagram: instagram.com/muhammad_banna_fn
+- LinkedIn: https://linkedin.com/in/muhammad-banna-f-n-a74b52346/
+- Instagram: https://instagram.com/sirloosenuts/
 
 ⭐ “Building ideas into digital experiences.”
